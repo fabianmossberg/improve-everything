@@ -20,7 +20,16 @@ Your service only allows me to connect to ONE email account. The API you are usi
 
 <img srcset="img/pleo_fetch.png 2x" src="img/pleo_fetch.png">
 
-### #2 Allow me to switch between companies.
+### #2 Allow me to moderate the queue
+
+Sometimes you get it wrong. I had a charge of **SEK 6** made by **Google**, and you connected it with a **SEK 3 654** invoice from **Amazon Web Services**.
+
+I would like to:
+- Disconnect that document
+- Click a button to fetch other possible matches.
+- If you get multiple options, let me see and choose.
+
+## Allow me to switch between companies.
 
 Not only does some of my companies have multiple mailboxes. I also have multiple companies. I'm sure I'm not the only client of yours that have more than one company.
 
@@ -29,4 +38,4 @@ Not only does some of my companies have multiple mailboxes. I also have multiple
 
 ### Changelog
 
-- [2021-06-14] - First versino of my suggestions.
+- [2021-06-14] - First version of my suggestions.
