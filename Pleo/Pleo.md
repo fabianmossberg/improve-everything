@@ -91,4 +91,4 @@ from
 
 ### Changelog
 
-- [2021-06-14] - First version of my suggestions.
+- **2021-06-14** - First version of my suggestions.
