@@ -100,9 +100,9 @@ from
 
 ## tl;dr
 
-- [ ] Allow me to connect multiple email accounts to fetch.
-- [ ] Let me moderate the fetch-queue
-- [ ] Let me toggle between my companies in your app and on your website.
+- [ ] Allow me to connect **multiple email accounts** to fetch.
+- [ ] Let me **moderate the fetched documents** and **trigger a new fetch**
+- [ ] Let me **toggle between my companies** in your app and on your website.
 
 ---
 
