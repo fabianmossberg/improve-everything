@@ -98,7 +98,7 @@ from
 </kbd>
 
 
-## tldr
+## tl;dr
 
 - [ ] Allow me to connect multiple email accounts to fetch.
 - [ ] Let me moderate the fetch-queue
