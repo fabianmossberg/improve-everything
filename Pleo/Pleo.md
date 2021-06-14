@@ -13,7 +13,7 @@ I have seen two things that needs fixing. The *fetch function*, that I think is 
 
 Pleo has a smart little function they call [Fetch](https://pleo.io/se/fetch), it can conenct to your email account, scan for receipts and automatically match it with expenses.
 
-### Allow me to use more than one emaila account
+### Allow me to use more than one email account
 
 Right now I can only connect one email account. For most people, this might be okay. But I do run multiple separate businesses in my company, they all have their own email setup, and work as independent teams.
 
@@ -40,6 +40,7 @@ Not only does some of my companies have multiple mailboxes. I also have multiple
 <kbd>
 <img src="img/pleo_byt_foretag.png" width="244">
 </kbd>
+
 
 Today, whenever I do a purchase using my Pleo Card, I need to do the following:
 
@@ -70,6 +71,7 @@ Currenlty a commpany can be associated with multiple users, but please, let us a
 5. Approve the purcahse. The dialog should say something like this:
 
 <kbd align="center">
+&nbsp;
 
 **Glesys&nbsp;AB** 
 
@@ -79,7 +81,7 @@ wants to charge
 
 from
 
-**Fabian&nbsp;Mosserg&nbsp;AB**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Fabian&nbsp;Mosserg&nbsp;AB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <kbd align="center">Accept</kbd> <kbd align="center">Reject</kbd> 
 
