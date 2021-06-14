@@ -2,7 +2,7 @@
 <img src="img/pleo.svg" alt="Pleo">
 </p>
 
-# Improve PLEO
+# Improve Pleo 🧠
 
 [Pleo]() is a really nice service. It's a pre-paid mastercard, that does two things that I love:
 
@@ -17,7 +17,7 @@ I have seen two things that needs fixing. The *fetch function*, that I think is 
 
 Pleo has a smart little function they call [Fetch](https://pleo.io/se/fetch), it can conenct to your email account, scan for receipts and automatically match it with expenses.
 
-### Allow me to use more than one email account
+### 📨 Allow me to use more than one email account
 
 Right now I can only connect one email account. For most people, this might be okay. But I do run multiple separate businesses in my company, they all have their own email setup, and work as independent teams.
 
@@ -28,7 +28,7 @@ Your service only allows me to connect to ONE email account. The API you are usi
 </kbd>
 
 
-### Allow me to moderate the queue
+### 👍 👎 Allow me to moderate the queue
 
 Sometimes you get it wrong. I had a charge of **SEK 6** made by **Google**, and you connected it with a **SEK 3 654** invoice from **Amazon Web Services**.
 
@@ -37,7 +37,7 @@ Sometimes you get it wrong. I had a charge of **SEK 6** made by **Google**, and 
 - Click a button to fetch other possible matches.
 - If you get multiple options, let me see and choose.
 
-## #2 - Multiple companies
+## #2 - 💼 Multiple companies
 
 Not only does some of my companies have multiple mailboxes. I also have multiple companies. I'm sure I'm not the only client of yours that have more than one company.
 
@@ -97,6 +97,12 @@ from
 
 </kbd>
 
+
+## tldr
+
+- [ ] Allow me to connect multiple email accounts to fetch.
+- [ ] Let me moderate the fetch-queue
+- [ ] Let me toggle between my companies in your app and on your website.
 
 ---
 
