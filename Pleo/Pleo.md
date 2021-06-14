@@ -1,4 +1,12 @@
+<p align="center">
+<img src="img/pleo.svg" alt="Pleo">
+</p>
+
+<p align="center">
+
 # Improve PLEO
+
+</p>
 
 [Pleo]() is a really nice service. It's a pre-paid mastercard, that does two things that I love:
 
