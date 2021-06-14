@@ -6,7 +6,7 @@
 2. Let's you import all the transactions to your accountnig software ([FortNox](https://www.fortnox.se/))
 
 
-# This needds to be fixed
+# This should
 
 I have seen two things that needs fixing. The *fetch function*, that I think is the main reason to use Pleo, and the ability to use the app when you have two companies.
 ## Fetch
@@ -52,15 +52,17 @@ Today, whenever I do a purchase using my Pleo Card, I need to do the following:
 12. Enter the code from my SMS.
 13. NOW i can approve the purchase.
 
-The whole idea with Pleo is to make thing simple. Pleo already has support for multiple users, so I know that the company and the user are two separate things in their system. Currenlty a commpany can be associated with multiple users, but please, let us associate users with multiple copanies, and make it easy to switch.
+The whole idea with Pleo is to **make thing simple**. Pleo already has support for multiple users, so I know that the company and the user are two separate things in their system.
 
-What SHOULD happen when I need to do a 3d secure verification is:
+Currenlty a commpany can be associated with multiple users, but please, let us associate users with multiple copanies, and make it easy to switch.
+
+**What I think should happen** when I need to do a 3d secure verification is:
 
 1. Enter my card details on the website
 2. Submit the form, which kicks in 3D Secure, it asks me to verify the purchase in the app.
 3. Start the PLEO app on my phone
 4. Enter my passcode, or use FaceID to unlock the app.
-5. Approve the purcahse. The dialog should say something like
+5. Approve the purcahse. The dialog should say something like this:
 
 <table><tr><td align="center">
 
@@ -74,8 +76,8 @@ from
 
 **Fabian&nbsp;Mosserg&nbsp;AB**
 
-| Approve | Deny |
-| ------- | ---- |
+<kbd>Accept</kbd> <kbd>Reject</kbd> 
+
 </td></tr></table>
 ---
 
