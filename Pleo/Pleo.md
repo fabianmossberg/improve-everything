@@ -13,11 +13,10 @@ I have seen two things that needs fixing. The *fetch function*, that I think is 
 
 Pleo has a smart little function they call [Fetch](https://pleo.io/se/fetch), it can conenct to your email account, scan for receipts and automatically match it with expenses.
 
+<details>
+<summary>Allow me to use more than one email account</summary>
 
 ### Allow me to use more than one email account
-
-<details>
-<summary>Show me how</summary>
 
 Right now I can only connect one email account. For most people, this might be okay. But I do run multiple separate businesses in my company, they all have their own email setup, and work as independent teams.
 
@@ -29,10 +28,12 @@ Your service only allows me to connect to ONE email account. The API you are usi
 
 </details>
 
-### Allow me to moderate the queue
+
 
 <details>
-<summary>Show me how</summary>
+<summary>Allow me to moderate the queue</summary>
+
+### Allow me to moderate the queue
 
 Sometimes you get it wrong. I had a charge of **SEK 6** made by **Google**, and you connected it with a **SEK 3 654** invoice from **Amazon Web Services**.
 
