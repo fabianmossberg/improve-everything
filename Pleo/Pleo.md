@@ -13,7 +13,7 @@ I have seen two things that needs fixing. The *fetch function*, that I think is 
 
 Pleo has a smart little function they call [Fetch](https://pleo.io/se/fetch), it can conenct to your email account, scan for receipts and automatically match it with expenses.
 
-#### Allow me to use more than one emaila account
+### Allow me to use more than one emaila account
 
 Right now I can only connect one email account. For most people, this might be okay. But I do run multiple separate businesses in my company, they all have their own email setup, and work as independent teams.
 
@@ -23,11 +23,11 @@ Your service only allows me to connect to ONE email account. The API you are usi
 <img width="420" src="img/pleo_fetch.png">
 </kbd>
 
-#### Allow me to moderate the queue
+### Allow me to moderate the queue
 
 Sometimes you get it wrong. I had a charge of **SEK 6** made by **Google**, and you connected it with a **SEK 3 654** invoice from **Amazon Web Services**.
 
-I would like to:
+**I would like to:**
 - Disconnect that document
 - Click a button to fetch other possible matches.
 - If you get multiple options, let me see and choose.
@@ -40,6 +40,7 @@ Not only does some of my companies have multiple mailboxes. I also have multiple
 <kbd>
 <img src="img/pleo_byt_foretag.png" width="244">
 </kbd>
+
 Today, whenever I do a purchase using my Pleo Card, I need to do the following:
 
 1. Enter my card details on the website
@@ -68,7 +69,7 @@ Currenlty a commpany can be associated with multiple users, but please, let us a
 4. Enter my passcode, or use FaceID to unlock the app.
 5. Approve the purcahse. The dialog should say something like this:
 
-<table><tr><td align="center">
+<kbd align="center">
 
 **Glesys&nbsp;AB** 
 
@@ -80,9 +81,10 @@ from
 
 **Fabian&nbsp;Mosserg&nbsp;AB**
 
-<kbd>Accept</kbd> <kbd>Reject</kbd> 
+<kbd align="center">Accept</kbd> <kbd align="center">Reject</kbd> 
 
-</td></tr></table>
+</kbd>
+
 ---
 
 ### Changelog
