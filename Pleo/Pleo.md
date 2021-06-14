@@ -19,7 +19,7 @@ Right now I can only connect one email account. For most people, this might be o
 
 Your service only allows me to connect to ONE email account. The API you are using allows you to connect with multiple accounts.
 
-<img srcset="img/pleo_fetch.png 2x" src="img/pleo_fetch.png">
+<img width="420" src="img/pleo_fetch.png">
 
 #### Allow me to moderate the queue
 
@@ -33,6 +33,8 @@ I would like to:
 ## Multiple accounts
 
 Not only does some of my companies have multiple mailboxes. I also have multiple companies. I'm sure I'm not the only client of yours that have more than one company.
+
+<img src="img/pleo_byt_foretag.png" width="244">
 
 Today, whenever I do a purchase using my Pleo Card, I need to do the following:
 
