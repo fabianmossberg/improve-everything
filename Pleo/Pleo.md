@@ -6,10 +6,10 @@
 2. Let's you import all the transactions to your accountnig software ([FortNox](https://www.fortnox.se/))
 
 
-# This should
+# What I want to be fixed
 
 I have seen two things that needs fixing. The *fetch function*, that I think is the main reason to use Pleo, and the ability to use the app when you have two companies.
-## Fetch
+## #1 - Fetch
 
 Pleo has a smart little function they call [Fetch](https://pleo.io/se/fetch), it can conenct to your email account, scan for receipts and automatically match it with expenses.
 
@@ -32,7 +32,7 @@ Sometimes you get it wrong. I had a charge of **SEK 6** made by **Google**, and 
 - Click a button to fetch other possible matches.
 - If you get multiple options, let me see and choose.
 
-## Multiple accounts
+## #2 - Multiple accounts
 
 Not only does some of my companies have multiple mailboxes. I also have multiple companies. I'm sure I'm not the only client of yours that have more than one company.
 
