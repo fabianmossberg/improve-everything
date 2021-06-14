@@ -59,6 +59,8 @@ Today, whenever I do a purchase using my Pleo Card, I need to do the following:
 <details>
 <summary>How it works today in 13 steps</summary>
 
+### This is how it works today:
+
 1. Enter my card details on the website
 2. Submit the form, which kicks in 3D Secure, it asks me to verify the purchase in the app.
 3. Start the PLEO app on my phone
@@ -81,6 +83,9 @@ Currenlty a commpany can be associated with multiple users, but please, let us a
 **What I think should happen** when I need to do a 3d secure verification is:
 
 <details><summary>How it could work</summary>
+
+### This is how could work:
+
 
 1. Enter my card details on the website
 2. Submit the form, which kicks in 3D Secure, it asks me to verify the purchase in the app.
