@@ -80,7 +80,7 @@ The whole idea with Pleo is to **make thing simple**. Pleo already has support f
 
 Currenlty a commpany can be associated with multiple users, but please, let us associate users with multiple copanies, and make it easy to switch.
 
-**What I think should happen** when I need to do a 3d secure verification is:
+**What I think should happen** when I need to do a 3d secure verification.
 
 <details><summary>How it could work</summary>
 
