@@ -108,4 +108,6 @@ from
 
 ### Changelog
 
-- **2021-06-14** - First version of my suggestions.
+- **2021-06-14** - First version of my suggestions. Tweeted it to Pleo.
+- **2021-06-15** - [Pete](https://twitter.com/chopeh) from Pleo responded to my tweet.
+- **2021-06-15** [Björn](https://www.linkedin.com/in/ingmbj/) from Pleo contacted me on LinkedIn and assured me that my feedback will reach the right product managers.
